@@ -1,7 +1,8 @@
 ### ハッピー美少女エンジニア
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mhousetree)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mhousetree)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=mhousetree&layout=compact)
+
 
 
 <!--
